@@ -1,0 +1,830 @@
+mascara	1019
+defined eyebrows	963
+winged eyeliner	730
+smoky eyeshadow	352
+neutral eyeshadow	329
+false eyelashes	224
+soft eyeliner	220
+curled lashes	196
+subtle eyeliner	192
+voluminous mascara	177
+natural tones	170
+false lashes	158
+soft eyeshadow	155
+defined brows	153
+light eyeshadow	140
+natural look	125
+eyeliner	125
+natural shades	120
+light eyeliner	108
+defined eyeliner	98
+warm tones	94
+subtle eyeshadow	91
+black eyeliner	90
+softly defined eyebrows	86
+light mascara	83
+soft brown eyeshadow	77
+long eyelashes	76
+groomed eyebrows	69
+neutral tones	68
+warm-toned eyeshadow	66
+lengthening mascara	65
+natural	61
+lightly defined lashes	53
+dark eyeshadow	53
+natural eyeshadow	53
+long lashes	52
+natural-looking	52
+lightly defined eyebrows	51
+filled-in eyebrows	51
+softly defined crease	44
+subtle mascara	44
+minimal mascara	43
+voluminous lashes	42
+lightly defined eyeliner	42
+full lashes	41
+soft smoky eyeshadow	40
+pink eyeshadow	40
+brown eyeshadow	40
+thin eyeliner	40
+shimmer eyeshadow	39
+shimmery eyeshadow	38
+extended eyeliner	37
+smokey eye	37
+soft smoky	37
+natural-looking false lashes	36
+lightly defined brows	36
+neutral-toned eyeshadow	35
+subtle shimmer	34
+full eyebrows	32
+smokey eyeshadow	31
+volumized lashes	31
+elongated eyeliner	31
+winged liner	31
+soft pink eyeshadow	30
+highlighted inner corners	30
+under-eye highlight	28
+softly defined brows	28
+lower lashline accent	28
+natural lashes	27
+filled-in brows	27
+highlighted inner corner	26
+natural-looking false eyelashes	24
+shaped eyebrows	23
+feathered eyebrows	23
+minimal eyeliner	21
+natural-looking mascara	21
+natural eyebrows	21
+lightly mascaraed lashes	20
+defined lashes	20
+lower lash emphasis	20
+well-defined eyebrows	20
+slight shimmer	19
+pink tones	18
+warm eyeshadow tones	18
+shimmery inner corner highlight	18
+black eyeshadow	18
+shimmer	18
+defined eyelashes	17
+lightly filled brows	17
+natural eyelashes	17
+neutral eyeshadow palette	17
+black mascara	17
+thick mascara	17
+natural brow	17
+lower lashline accentuation	17
+brown eyeliner	16
+thick eyeliner	16
+light inner corner highlight	16
+light shimmer	15
+lightly filled eyebrows	15
+smoky eyes	14
+soft smokey	13
+softly defined eyeliner	13
+minimal eyeshadow	13
+lightly defined crease	13
+lower lash accentuation	12
+soft smokey eye	12
+gradient eyeshadow	12
+slightly winged eyeliner	12
+soft winged eyeliner	12
+natural lash enhancement	11
+arched eyebrows	11
+smokey eyes	11
+neutral toned eyeshadow	11
+glitter accents	11
+gradient effect	11
+lower lash line accentuation	11
+natural brows	11
+blue eyeshadow	10
+feathery lashes	10
+curled eyelashes	10
+lower lashline highlight	10
+shimmer on inner corners	10
+natural false lashes	10
+dark eyeliner	10
+lower lashline eyeshadow	9
+shimmering eyeshadow	9
+slight eyeliner	9
+subtly defined crease	9
+soft contouring	9
+softly defined	9
+feathery mascara	9
+eyebrow pencil	9
+filled eyebrows	8
+soft smoky effect	8
+subtle highlight inner corner	8
+brown tones	8
+slight mascara	7
+lower lashline emphasis	7
+cat-eye liner	7
+softly filled eyebrows	7
+under-eye concealer	7
+well-defined brows	7
+purple eyeshadow	7
+subtle winged eyeliner	7
+natural eyeliner	7
+eyeshadow gradient	7
+pink undertones	7
+slightly defined eyebrows	7
+soft mascara	7
+peach eyeshadow	7
+lower lash enhancement	6
+subtle under-eye highlight	6
+nude eyeshadow	6
+brown shades	6
+barely-there eyeshadow	6
+soft blending	6
+natural-looking eyebrows	6
+inner eye highlight	6
+dramatic mascara	6
+shimmer highlight	6
+well-groomed eyebrows	6
+soft-brown eyeshadow	6
+gold eyeshadow	6
+light brown eyeshadow	6
+full eyelashes	6
+lightly mascara'd lashes	6
+feathery eyebrows	6
+filled brows	6
+subtle inner eye highlight	6
+soft shimmer	6
+softly filled brows	6
+earth tones	6
+long, curled lashes	5
+heavy eyeliner	5
+shimmery inner corners	5
+kohl-rimmed	5
+long mascara-coated lashes	5
+cat eyeliner	5
+natural-looking lashes	5
+no visible eyeshadow	5
+feathery brows	5
+defined lower lash line	5
+natural-toned eyeshadow	5
+kohl rimmed	5
+lower lashline definition	5
+lower lash line accent	5
+brown mascara	5
+neutral shades	5
+lightly defined eyelashes	5
+defined mascara	5
+soft eye shadow	5
+subtle inner corner highlight	5
+feathered brows	5
+lengthened lashes	5
+no eyeliner	5
+inner corner highlight	5
+natural brow shape	5
+soft makeup	4
+volumized mascara	4
+natural eyebrow shape	4
+natural brow color	4
+brow filler	4
+top lash mascara	4
+subtle highlight on inner corner	4
+orange eyeshadow	4
+subtly defined eyebrows	4
+lightly mascared lashes	4
+smoky	4
+neatly groomed eyebrows	4
+lower lashline accentuated	4
+shimmer shadow	4
+black kohl	4
+blended eyeshadow	4
+lightly lined	4
+extended eyelashes	4
+eyeliner with a slight wing	4
+wispy lashes	4
+soft shimmer eyeshadow	4
+natural lash volume	4
+bottom lash emphasis	4
+shimmer highlight inner corners	4
+lightly curled lashes	4
+lower lashline enhancement	4
+blended eyeliner	4
+wispy eyelashes	4
+eyeliner wings	4
+falsies	4
+subtle highlight on inner corners	4
+dark mascara	4
+subtle lower lash line	4
+top lash emphasis	4
+lower lashline subtly defined	4
+top lid emphasis	4
+natural long lashes	4
+peachy eyeshadow	4
+upper eyelid eyeliner	4
+warm toned eyeshadow	4
+softly blended	3
+rose-hued eyeshadow	3
+subtle makeup	3
+soft smudging	3
+top lashes mascara	3
+eyeliner with slight wing	3
+lightly-mascaraed lashes	3
+under-eye brightness	3
+pink hues	3
+subtle eye shadow	3
+pinkish hues	3
+eyelash extensions	3
+subtly defined eyeliner	3
+mascara applied	3
+natural eyeshadow tones	3
+softly defined lashes	3
+gently filled brows	3
+soft smudged eyeliner	3
+lightly defined	3
+neutral eyeshadow tones	3
+mascara-applied lashes	3
+natural eyelash length	3
+elongated eye shape	3
+winged	3
+aegyo-sal highlight	3
+blue eyeliner	3
+peachy tones	3
+soft liner	3
+eyeliner wing	3
+soft definition	3
+shimmer highlights	3
+well-defined lashes	3
+lower lash line shadow	3
+shimmer highlight (inner corner)	3
+mascara-coated lashes	3
+glitter	3
+smokey effect	3
+natural mascara	3
+subtle winged liner	3
+lower lash definition	3
+fluttery lashes	3
+lower lash line eyeshadow	3
+natural-looking brows	3
+shimmery inner corner	3
+lower lash line accentuated	3
+yellow eyeshadow	3
+softly contoured crease	3
+lengthened eyelashes	3
+softly lined lower lash line	3
+brow-filling	3
+no visible eyeliner	3
+peach tones	3
+full brows	3
+smudged eyeliner	3
+lightly winged eyeliner	3
+pastel pink eyeshadow	3
+pastel eyeshadow	3
+under-eye liner	3
+dark eyeshadow palette	2
+subtle liner	2
+elongated eyeliner wing	2
+red eyeshadow	2
+heavy mascara	2
+shaded eyeshadow	2
+subtle under-eye liner	2
+bronze eyeshadow	2
+soft under-eye highlight	2
+natural eye makeup	2
+gentle eyeliner	2
+minimalist	2
+softly blended eyeshadow	2
+soft-matte eyeshadow	2
+subtly defined brows	2
+lower lash mascara	2
+lower eyelash emphasis	2
+large circle lenses	2
+nude tones	2
+brow filling	2
+extended wing	2
+natural tone	2
+smoky effect	2
+muted brown tones	2
+barely-there mascara	2
+softly shaded eyeshadow	2
+smoky shadow	2
+slightly winged liner	2
+slight winged eyeliner	2
+arched brows	2
+barely-there lower lash definition	2
+subtle eye makeup	2
+eyelid highlight	2
+soft brown shades	2
+subtle highlight in the inner corner	2
+soft mascara application	2
+soft winged liner	2
+feathered mascara	2
+possibly tightlined eyeliner	2
+heavy liner	2
+lower lash line emphasis	2
+understated eye makeup	2
+soft brown tones	2
+natural tone eyeshadow	2
+light makeup	2
+softly enhanced lashes	2
+lightly mascara-coated lashes	2
+natural eyelash enhancement	2
+barely-there eyeliner	2
+earth tone eyeshadow	2
+earth tone eyeshadows	2
+neutral warm eyeshadow	2
+natural eyelash look	2
+softly defined lash line	2
+bottom eyelash accents	2
+slightly defined crease	2
+top lashes accentuated	2
+lower lashline lightly defined	2
+muted eyeshadow	2
+natural-toned eyeliner	2
+eyeshadow	2
+soft brows	2
+soft shading	2
+dramatic	2
+subtly filled eyebrows	2
+natural lash look	2
+slightly winged	2
+soft-defined eyebrows	2
+subtle eyebrow definition	2
+shimmer on inner corner	2
+navy blue eyeshadow	2
+brow definition	2
+neutral-toned eyeshadows	2
+brow definer	2
+lower lash line accented	2
+pale inner corner highlight	2
+soft eyebrow arch	2
+mascara-enhanced lashes	2
+under-eye glitter	2
+warm neutral tones	2
+neutral-warm eyeshadow tones	2
+hint of shimmer	2
+natural looking	2
+shimmer highlight inner corner	2
+slight eyeshadow	2
+lower lash line subtly defined	2
+soft eyebrow fill	2
+warm eyeshadow	2
+shimmer highlight on inner corners	2
+understated eye shadow	2
+shimmery highlight on inner corners	2
+well-defined eyeliner	2
+pink accent	2
+shimmery highlight inner corner	2
+subtle smokey eye	2
+subtly highlighted inner corners	2
+natural lash line	2
+lightly-defined lashes	1
+hint of lower lashline highlight	1
+red accents	1
+doll-like eyelashes	1
+green eyeshadow	1
+waterline lining	1
+natural eyelash extensions	1
+brows softly filled in	1
+lower lash line enhancement	1
+long, natural-looking lashes	1
+lower lash line highlight	1
+penciled eyebrows	1
+dramatic eyeliner	1
+softly smoked lower lash line	1
+light shimmer eyeshadow	1
+thinly lined upper eyelid	1
+black eye shadow	1
+brow highlighter	1
+thick eyebrows	1
+lower lash line subtly highlighted	1
+natural brow shading	1
+soft eyebrow definition	1
+gently winged eyeliner	1
+neutral palette	1
+subtle shimmery highlight at inner corners	1
+slightly smudged eyeliner	1
+bold cat-eye	1
+lightly-winged eyeliner	1
+rosy pink eyeshadow	1
+no apparent false lashes	1
+no eyeliner visible	1
+lightly mascara-ed lower lashes	1
+natural-looking eyelashes	1
+underside highlight	1
+soft browns	1
+soft-contoured	1
+lower lash line subtly shaded	1
+top lid accentuation	1
+soft brow	1
+lightly-lined upper lash line	1
+defined but soft eyebrows	1
+neutrally defined brows	1
+mascara on upper lashes	1
+minimal eye shadow	1
+dolly look	1
+brow mascara	1
+eyeshadow blending	1
+soft peach eyeshadow	1
+bright turquoise eyeshadow	1
+full, natural-looking eyebrows	1
+subtle highlight below eyebrow	1
+light brow filler	1
+pale pink tones	1
+soft browns and pinks	1
+extended outer corners	1
+slightly shimmery inner corners	1
+thick winged eyeliner	1
+slightly elongated shape	1
+peach/pink tones	1
+brow enhancement	1
+subtly defined eyelashes	1
+gradational eyeliner	1
+cleanly shaped brows	1
+clean lower lash line	1
+lower lash line subtly lined	1
+softly lined	1
+slightly curled lashes	1
+gently filled in eyebrows	1
+bold	1
+highly pigmented	1
+bronzed crease	1
+elongated outer corner	1
+natural full brows	1
+bold eyeliner	1
+vibrant eyeshadow	1
+black and grey eyeshadow	1
+natural-toned	1
+lightly smudged lower lashline	1
+slightly shimmering inner corners	1
+blue eye pencil	1
+volume mascara	1
+lower lashline subtly lined	1
+feathery false lashes	1
+subtle eyelash curl	1
+masacra	1
+slightly shimmering	1
+brow pencil	1
+graphic liner	1
+orangish-red eyeshadow	1
+smudged lower lash line	1
+fluttery eyelashes	1
+slightly shimmering eyeshadow	1
+lightly defined mascara	1
+top lashline emphasis	1
+softly defined lower lash line	1
+natural-looking lash enhancement	1
+eyebrow shaping	1
+under-eye highlighter	1
+navy and black eyeshadows	1
+slight eye shadow	1
+possibly tight-lining	1
+earth-tone eyeshadow	1
+natural eyebrow color	1
+barely-there makeup look	1
+slight shimmer on eyelids	1
+curling mascara	1
+eyeshadow gradation	1
+blue and purple eyeshadow	1
+possibly mascara	1
+nude shades	1
+glitter accents under eyes	1
+tightlining	1
+under-eye kohl	1
+extended toward outer corner	1
+extended eyeliner wing	1
+soft under-eye color	1
+light eye shadow	1
+bright inner eye corners	1
+shimmery highlight inner corners	1
+brow bone highlight	1
+thinly lined	1
+lower lash line emphasized	1
+sculpted eyebrows	1
+subtle highlighter on inner corners	1
+shimmer highlighter on inner corners	1
+slight eyeshadow contouring	1
+shimmering highlight	1
+elongated cat-eye	1
+brown eyebrow pencil	1
+subtle under-eye lining	1
+faintly shimmery inner corners	1
+groomed brows	1
+earth-tone eyeshadows	1
+rounded eyebrows	1
+winged effect	1
+subtle highlighter inner corners	1
+gold accents	1
+rosy-hued eyeshadow	1
+smoky purple eyeshadow	1
+highlight on inner corners	1
+brown eyeliner on lower lash line	1
+shimmering inner corner highlight	1
+neatly groomed brows	1
+natural false eyelashes	1
+filled and shaped eyebrows	1
+eyelid highlighter	1
+softly shaded crease	1
+upper lash curl	1
+subtle lower lash line definition	1
+base eyeshadow	1
+smokey eye shadow	1
+gently defined eyebrows	1
+extended inner corner	1
+eyeliner with a wing	1
+soft neutral eyeshadow	1
+soft smokey effect	1
+warm brown eyeshadow	1
+soft eyebrow shading	1
+eyeliner slightly winged	1
+defined but natural eyebrows	1
+gradient under-eye	1
+subtly lined	1
+dramatic cat-eye	1
+black kohl on waterline	1
+black and blue eyeshadow	1
+winged shape	1
+lower lash line smudge	1
+rhinestones	1
+soft smokey eyes	1
+bright inner corner highlight	1
+subtle highlight	1
+lightly lined upper lid	1
+possibly tight-lined	1
+subtle eye contouring	1
+medium-length mascara-coated lashes	1
+arched, defined brows	1
+softly smudged lower lashline	1
+brows defined	1
+peach/brown eyeshadow	1
+	1
+rounded appearance	1
+violet and pink eyeshadow	1
+navy and emerald eyeshadow	1
+dramatic look	1
+orange hues	1
+bottom lash mascara	1
+subtle lower lash definition	1
+natural-looking eyeliner	1
+natural eyelid crease	1
+subtle eyeliner wings	1
+dark eyelashes	1
+brown eye pencil	1
+lower eyelash accentuation	1
+top lashes emphasized	1
+eyebrows neatly filled	1
+possibly light eyeliner	1
+full, defined eyebrows	1
+brown to black gradient	1
+lightly filled-in brows	1
+feathery eyelashes	1
+subtle aegyo sal	1
+subdued eyeshadow	1
+mascared lashes	1
+twiggy-inspired false lashes	1
+ombré effect	1
+sparse false eyelashes	1
+subtle highlight inner corners	1
+thick eyelashes	1
+soft contour	1
+defined, natural-looking eyebrows	1
+possibly curled eyelashes	1
+dramatic eyelashes	1
+pink-red tones	1
+lower lashline subtle highlight	1
+dark crease	1
+turquoise lower lash line	1
+well-defined mascara	1
+lightly lined lower lash line	1
+subtle eyelid shimmer	1
+natural-look false lashes	1
+elongated eyeliner shape	1
+upper eyelid emphasis	1
+brows naturally filled	1
+barely-there eye shadow	1
+warm brown tones	1
+winged style	1
+top lash enhancement	1
+natural-look eyeshadow	1
+natural eyebrow fill	1
+minimalistic mascara	1
+elongated shape	1
+dewy under-eye highlight	1
+natural colors	1
+possibly light shimmer on eyelid	1
+gradated shading	1
+subtle highlighting inner corner	1
+warm shades	1
+graduated eyeshadow	1
+lower lash line color accent	1
+subtle highlighting	1
+full, natural-looking lashes	1
+upper eyelid highlight	1
+subtle highlights in inner corners	1
+natural-tone eyeshadow	1
+heavy makeup	1
+natural-toned crease	1
+gently filled eyebrows	1
+pale waterline liner	1
+well-groomed brows	1
+natural-colored eyeshadow	1
+lower lashline soft liner	1
+minimalistic	1
+full mascara	1
+natural eye color	1
+elongated winged eyeliner	1
+light brow definition	1
+soft eyebrows	1
+subtly highlighted inner corner	1
+soft-shading	1
+pinkish eyeshadow	1
+soft-pink eyeshadow	1
+golden eyeshadow	1
+red tones	1
+brushed-up brows	1
+neutral-shade eyeshadow	1
+natural-length lashes	1
+mascara-applied lower lashes	1
+feathery look	1
+faintly contoured crease	1
+natural color tones	1
+natural-shaped eyebrows	1
+glitter under eyes	1
+softly-defined eyebrows	1
+bright eyeshadow	1
+rosy hues	1
+soft brow color	1
+natural-toned palette	1
+outlined lower lashline	1
+brown-toned eyeshadow	1
+soft brown and pink eyeshadow	1
+full and long eyelashes	1
+rosy tones	1
+pink highlights	1
+defined lower lashes	1
+bright inner corners	1
+shimmery corner highlight	1
+soft eyebrow filling	1
+slightly defined eyelashes	1
+slight wingtip	1
+pastel eyeliner	1
+colorful makeup	1
+lower lashline subtle liner	1
+bottom eyelash emphasis	1
+pink inner corner highlight	1
+no heavy eyeshadow	1
+bold blue eyeshadow	1
+thick black eyeliner	1
+arched and defined eyebrows	1
+soft browns and blacks	1
+gradient	1
+filled in eyebrows	1
+subtle eyeshadow gradient	1
+peach or coral eyeshadow	1
+eyeshadow gradient effect	1
+kohl-rimmed waterline	1
+long false lashes	1
+natural mascara application	1
+natural eyebrow filling	1
+subtle shimmer on the lid	1
+pink glitter highlight	1
+under-eye shimmer	1
+gentle inner-corner highlight	1
+browns and neutral tones	1
+slightly accentuated lashes	1
+lengthened mascara	1
+subtle inner-corner highlight	1
+warm neutral eyeshadow	1
+mascara application	1
+pink eyeshadow under eyes	1
+minimalist mascara	1
+straight eyebrows	1
+softly accentuated lashes	1
+natural eye look	1
+enhanced lower lash line	1
+slight shimmer on the inner corner	1
+pink and red tones	1
+fuller natural-looking lashes	1
+slightly defined lashes	1
+gentle liner	1
+soft smoky eyes	1
+mascara enhanced lashes	1
+bold eyeshadow	1
+browns and golds eyeshadow palette	1
+top eyeliner	1
+reddish-brown color palette	1
+lengthened mascara-coated lashes.	1
+highlight inner corner	1
+purple tones	1
+under eye brightening	1
+turquoise eyeshadow	1
+peach and pink tones	1
+lightly mascaraed lower lashes	1
+highlighter inner corner	1
+tightlined upper lid	1
+understated makeup	1
+light lower lash line	1
+natural-toned eyeshadows	1
+slightly filled eyebrows	1
+shimmery lower lash line	1
+shapely eyebrows	1
+extended inner eye highlight	1
+eyeliner extending beyond the outer corner	1
+accentuated under eye	1
+slight eye bags visible	1
+pinkish lower lash line	1
+warm tone eyeshadow	1
+eyeliner with a small wing	1
+top and bottom lash mascara	1
+shimmery shadow	1
+heavy black eyeliner	1
+pinkish hue under the eyes	1
+blended	1
+navy blue undertones	1
+shimmer highlight at inner corner	1
+burgundy shades	1
+lash enhancements	1
+warm hues	1
+blended liner	1
+blended edges	1
+brow gel	1
+highlighting inner corners	1
+orange & pink eyeshadow	1
+shaded brow	1
+brown eyeshadows	1
+natural-toned eyelids	1
+eyelid shimmer	1
+orange-toned highlight	1
+feathery	1
+lightly lined eyeliner	1
+soft shimmer shadow	1
+light pink eyeshadow	1
+neatly shaped eyebrows	1
+soft brow definition	1
+lower lashline subtly highlighted	1
+slight eye contouring	1
+no visible mascara	1
+soft cat-eye	1
+brown to nude gradients	1
+fuller lashes	1
+no visible wing or heavy liner	1
+star stickers	1
+elongated eyelash extensions	1
+extended tails	1
+under eye highlight	1
+lower lashline accents	1
+color contacts	1
+eyeliner with wing	1
+bold eyebrows	1
+fake eyelashes	1
+defining eyebrows	1
+soft kohl rimmed	1
+understated eyeliner	1
+pinkish eyeshadow on the lower lash line	1
+shimmery gold eyeshadow	1
+neutral tones on the crease	1
+no eyeshadow	1
+lower lash line shading	1
+lightly lined lower lash	1
+smoked eyeshadow	1
+shimmering highlight inner corners	1
+soft-smoky eyeshadow	1
+smoky eye effect	1
+dotted embellishments around eyes	1
+auburn tones	1
+subtle	1
+neutral shadow tones	1
+faint lower lash line	1
+slight wing	1
+natural-colored contact lenses	1
+lower lash line eyeliner	1
+natural eyeshadow colors	1
+lightly mascara-ed lashes	1
+brow-defining	1
+possibly kohl in waterline	1
+long natural-looking lashes	1
+light eyeliner on waterline	1
+slight eyebrow fill	1
+minimal makeup	1
+lightly highlighted inner corner	1
+wispy false lashes	1
+highlighter at inner corners	1
+clean eyebrows	1
+shimmery inner-corner highlight	1
+natural eyebrow	1
+delicately filled brows	1
+lightly mascaraed	1
+light smoky effect	1
